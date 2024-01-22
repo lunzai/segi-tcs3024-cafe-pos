@@ -1,0 +1,20 @@
+# FORMAT:
+# NAME OF ITEM|PRICE
+# EXAMPLE:
+# NASI LEMAK|15.4
+
+The Big Breakfast|38.5
+Eggs Flamenco|28
+Truffled Eggs & Smoked Salmon|34
+Mixed Berry French Toast|29
+Tuna Melt Croissant|26
+Salt Beef Bagel|28
+Roast Beef Sandwich|30
+Truffle Mac & Cheese|42
+Pesto Pasta|30
+Carbonara|35
+Lasagna|39
+Seafood Aglio Olio|42
+Fish & Chips|42
+Hawaiian Pizza|32
+Seafood Pizza|34

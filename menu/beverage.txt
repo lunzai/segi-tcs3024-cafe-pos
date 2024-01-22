@@ -1,0 +1,15 @@
+# FORMAT:
+# NAME OF ITEM|MEDIUM PRICE|LARGE PRICE
+# EXAMPLE:
+# MILO ICE|2.5|4.2
+
+Ice Lemon Tea|16.5|18.5
+Ice Peach Tea|16.5|18.5
+Lemongrass Honey|16|18
+English Breakfast|11|13
+Earl Grey|11|13
+Chamomile Herbal|11|13
+Green Tea|11|13
+Perrermint|11|13
+Matcha Latte|16|18
+Hojicha Latte|18|20
